@@ -1,0 +1,16 @@
+[
+        {
+            "name": "Banana",
+            "calories": 105, 
+            "protein": 1.1,
+            "carbs": 27,
+            "fats": 0.3,
+            "sugar": 14,
+            "fiber": 2.3,
+            "origin": "india",
+            "cholestrol": "No cholestrol",
+            "benefits": " Rich in potassium "
+            
+          }
+        
+]
